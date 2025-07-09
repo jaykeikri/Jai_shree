@@ -24,6 +24,29 @@ To collect and visualize IMDb movie data for the year 2024 by automating the dat
 
 ## 📁 Project Structure
 
+pip install -r requirements.txt
+
+Do you want me to generate a `requirements.txt` file for your project?
+
+---
+
+## ✅ Step 3: Final Presentation (PPT)
+
+I will now prepare a downloadable `.pptx` file with 8–9 slides that you can use in your 30-minute evaluation session.
+
+**Title**: IMDb 2024 Data Scraping and Visualization  
+Includes:
+- Problem
+- Tools
+- Process
+- Screenshots
+- Dashboard Features
+- Conclusion
+
+👉 I’ll send the presentation file shortly.
+
+---
+
 
 ---
 
